@@ -1,6 +1,7 @@
 # Prerequisite
 ```sh
 virtualenv env
+source ./env/bin/activate
 pip install -r lib.txt
 ```
 
