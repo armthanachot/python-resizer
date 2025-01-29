@@ -9,7 +9,7 @@ def resize_image(input_image_path, output_image_path, size):
         resized_image.save(output_image_path)
 
 # ขนาดที่ต้องการปรับ (กว้าง, สูง)
-new_size = (60, 60)
+new_size = (120, 120)
 
 # เรียกใช้ฟังก์ชัน resize
-resize_image("source/image/image.png","img/8_.png", new_size)
+resize_image("/Users/thanachottesjaroen/Downloads/_1d64f03a-ac8c-4eab-87b4-b5c54c5f4146-removebg-preview.png","img/39.png", new_size)
